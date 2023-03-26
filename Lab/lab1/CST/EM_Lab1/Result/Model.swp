@@ -1,0 +1,89 @@
+15/Mar/2023 20:12:53  ==========================================================================
+                      Sequence: Sequence 1
+                      ==========================================================================
+
+15/Mar/2023 20:12:53  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 5
+15/Mar/2023 20:12:54  
+                      Structure update: Successful
+15/Mar/2023 20:13:13            Solver: Successful
+15/Mar/2023 20:13:13       Solver time: 0 hours, 0 min., 19 sec.
+15/Mar/2023 20:13:13  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 5.2222222
+15/Mar/2023 20:13:14  
+                      Structure update: Successful
+15/Mar/2023 20:13:34            Solver: Successful
+15/Mar/2023 20:13:34       Solver time: 0 hours, 0 min., 20 sec.
+15/Mar/2023 20:13:34  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 5.4444444
+15/Mar/2023 20:13:36  
+                      Structure update: Successful
+15/Mar/2023 20:13:54            Solver: Successful
+15/Mar/2023 20:13:54       Solver time: 0 hours, 0 min., 18 sec.
+15/Mar/2023 20:13:54  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 5.6666667
+15/Mar/2023 20:13:55  
+                      Structure update: Successful
+15/Mar/2023 20:14:13            Solver: Successful
+15/Mar/2023 20:14:13       Solver time: 0 hours, 0 min., 18 sec.
+15/Mar/2023 20:14:13  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 5.8888889
+15/Mar/2023 20:14:14  
+                      Structure update: Successful
+15/Mar/2023 20:14:32            Solver: Successful
+15/Mar/2023 20:14:32       Solver time: 0 hours, 0 min., 18 sec.
+15/Mar/2023 20:14:32  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 6.1111111
+15/Mar/2023 20:14:33  
+                      Structure update: Successful
+15/Mar/2023 20:14:52            Solver: Successful
+15/Mar/2023 20:14:52       Solver time: 0 hours, 0 min., 19 sec.
+15/Mar/2023 20:14:52  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 6.3333333
+15/Mar/2023 20:14:53  
+                      Structure update: Successful
+15/Mar/2023 20:15:11            Solver: Successful
+15/Mar/2023 20:15:11       Solver time: 0 hours, 0 min., 18 sec.
+15/Mar/2023 20:15:11  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 6.5555556
+15/Mar/2023 20:15:12  
+                      Structure update: Successful
+15/Mar/2023 20:15:36            Solver: Successful
+15/Mar/2023 20:15:36       Solver time: 0 hours, 0 min., 24 sec.
+15/Mar/2023 20:15:36  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 6.7777778
+15/Mar/2023 20:15:37  
+                      Structure update: Successful
+15/Mar/2023 20:16:00            Solver: Successful
+15/Mar/2023 20:16:00       Solver time: 0 hours, 0 min., 23 sec.
+15/Mar/2023 20:16:00  --------------------------------------------------------------------------
+                      Parameter Values: 
+                      
+                         d = 7
+15/Mar/2023 20:16:01  
+                      Structure update: Successful
+15/Mar/2023 20:16:21            Solver: Successful
+15/Mar/2023 20:16:21       Solver time: 0 hours, 0 min., 20 sec.
+15/Mar/2023 20:16:21  --------------------------------------------------------------------------
+15/Mar/2023 20:16:21  
+                      ==========================================================================
+                      Total evaluation time: 0 hours, 3 min., 17 sec.
+                      ==========================================================================
