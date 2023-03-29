@@ -1,15 +1,15 @@
-FeatureKeywords:string:mesh::background::boolean, meshloading:problem_class_only, mesh:workflow:LegacyInput_from_CST_Studio_2020, mesh:workflow:nru, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh:workflow:cad2srf, mesh:workflow:srf2vol, mesh:lib:blsurf, visualization:mesh_view:default_engine, DELETERESULTS:0SP0, acceleration:cpu:2, acceleration:cpudevices:1, background:normal, boundary:open:ConvPML, boundary:open:xmax, boundary:open:xmin, boundary:open:ymax, boundary:open:ymin, boundary:open:zmax, boundary:open:zmin, mesh:tet, mesh:tet:adaptive, solver:lf:e-static, source:charge:pec, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:Hz, units:Inductance:nH, units:Length:m, units:Resistance:Ohm, units:Temperature:K, units:Time:s, units:Voltage:V, DELETERESULTS:M000, la:direct, la:precond:pdss7, visualization:field_plot:default_engine, DELETERESULTS:00P0, DELETERESULTS:M0P0, modeler:variables:rebuild, modeler:variables:fastrebuild, postprocess:evaluate field, front:parametersweep, modeler:load:fastloading, visualization:mesh_view:legacy_engine, la:ooc
+FeatureKeywords:string:mesh::background::boolean, meshloading:problem_class_only, mesh:workflow:LegacyInput_from_CST_Studio_2020, mesh:workflow:nru, mesh:workflow:boolean, mesh:workflow:boolean:advanced, mesh:workflow:cad2srf, mesh:workflow:srf2vol, mesh:lib:blsurf, visualization:mesh_view:default_engine, DELETERESULTS:0SP0, acceleration:cpu:2, acceleration:cpudevices:1, background:normal, boundary:open:ConvPML, boundary:open:xmax, boundary:open:xmin, boundary:open:ymax, boundary:open:ymin, boundary:open:zmax, boundary:open:zmin, mesh:tet, mesh:tet:adaptive, solver:lf:e-static, source:charge:pec, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:Hz, units:Inductance:nH, units:Length:m, units:Resistance:Ohm, units:Temperature:K, units:Time:s, units:Voltage:V, DELETERESULTS:M000, la:direct, la:precond:pdss7, visualization:field_plot:default_engine, DELETERESULTS:00P0, DELETERESULTS:M0P0, modeler:variables:rebuild, modeler:variables:fastrebuild, postprocess:evaluate field, front:parametersweep, modeler:load:fastloading, visualization:mesh_view:legacy_engine, la:ooc, units:Length:mm
 LastWorkflowState:string:tetmesh:success
-solver_pp/InitialFreePhysicalInMB:int:513
+solver_pp/InitialFreePhysicalInMB:int:702
 solver_pp/MaxResidentSizeInMB:int:19
 solver_pp/MaxResidentSizeMiB:int:3
-solver_pp/MinFreePhysicalInMB:int:503
-solver_se_tet/InitialFreePhysicalInMB:int:611
-solver_se_tet/MaxResidentSizeInMB:int:122
+solver_pp/MinFreePhysicalInMB:int:691
+solver_se_tet/InitialFreePhysicalInMB:int:703
+solver_se_tet/MaxResidentSizeInMB:int:107
 solver_se_tet/MaxResidentSizeMiB:int:116
-solver_se_tet/MinFreePhysicalInMB:int:553
-tetmesh/InitialFreePhysicalInMB:int:557
-tetmesh/MaxResidentSizeInMB:int:38
+solver_se_tet/MinFreePhysicalInMB:int:658
+tetmesh/InitialFreePhysicalInMB:int:676
+tetmesh/MaxResidentSizeInMB:int:36
 tetmesh/MaxResidentSizeMiB:int:63
-tetmesh/MinFreePhysicalInMB:int:556
+tetmesh/MinFreePhysicalInMB:int:670
 ---

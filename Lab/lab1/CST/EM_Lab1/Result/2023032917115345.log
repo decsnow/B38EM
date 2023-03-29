@@ -10,7 +10,7 @@ Calculation window:
 
                  low        high    stepsize
          ----------- ----------- -----------
-       X          -2          -2           1
+       X           0           0           1
        Y           0           0           1
        Z           0           0           1
 
@@ -28,4 +28,4 @@ Result Data:
 
  NData Points = 1
 
- Field Value  =  -7.8598E+01
+ Field Value  =    -11777778

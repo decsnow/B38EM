@@ -7,7 +7,7 @@
       {
          "name": "d",
          "type": "float",
-         "value": 6.0
+         "value": 7.0
       },
       {
          "name": "q1",
@@ -30,19 +30,19 @@
          "len": 1,
          "name": "3D\\E-Field (Es)_X_0D_2",
          "type": "float",
-         "value": -78.9881362915039
+         "value": -76551080.0
       },
       {
          "len": 1,
          "name": "3D\\E-Field (Es)_X_0D_1",
          "type": "float",
-         "value": -78.59786224365234
+         "value": -76019360.0
       },
       {
          "len": 1,
          "name": "3D\\E-Field (Es)_X_0D",
          "type": "float",
-         "value": -15.704019546508789
+         "value": -11777778.0
       }
    ]
 }

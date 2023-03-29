@@ -3,19 +3,19 @@ Post-processing Logfile
 ----------------------------------------------------------------------------------------
 Units settings: 
 
-  Dimensions: m
+  Dimensions: mm
   Frequency:  Hz
   Time:       s
 
 ----------------------------------------------------------------------------------------
 
-Template based post-processing started at: 04:39 PM Wednesday, 29. March 2023
+Template based post-processing started at: 05:11 PM Wednesday, 29. March 2023
 
-  Evaluating 'E-Field (Es)_X_0D_2': 2 s
+  Evaluating 'E-Field (Es)_X_0D_2': 1 s
   Evaluating 'E-Field (Es)_X_0D_1': 0 s
   Evaluating 'E-Field (Es)_X_0D': 0 s
 
-  Total time: 3 s  ( = 0 h, 0 m, 3 s )
+  Total time: 2 s  ( = 0 h, 0 m, 2 s )
 
-Template based post-processing finished at: 04:39 PM Wednesday, 29. March 2023
+Template based post-processing finished at: 05:11 PM Wednesday, 29. March 2023
 ----------------------------------------------------------------------------------------

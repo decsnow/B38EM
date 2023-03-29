@@ -2,9 +2,9 @@
     "parameters": [
         {
             "descr": "seperationn of phere from their midpoints",
-            "expr": "6",
+            "expr": "7",
             "name": "d",
-            "value": "6"
+            "value": "7"
         },
         {
             "descr": "charge of sphere 1",
@@ -28,13 +28,13 @@
             "descr": "Point of highest E-field on sphere 1",
             "expr": "(d/2)-r0",
             "name": "p1",
-            "value": "2"
+            "value": "2.5"
         },
         {
             "descr": "Point of highest E-field on sphere 2",
             "expr": "(-d/2)+r0",
             "name": "p2",
-            "value": "-2"
+            "value": "-2.5"
         },
         {
             "descr": "Mid-point between spheres",
