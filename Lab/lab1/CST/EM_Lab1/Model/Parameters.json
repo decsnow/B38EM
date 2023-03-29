@@ -1,36 +1,43 @@
 {
     "parameters": [
         {
-            "expr": "7",
+            "descr": "seperationn of phere from their midpoints",
+            "expr": "6",
             "name": "d",
-            "value": "7"
+            "value": "6"
         },
         {
+            "descr": "charge of sphere 1",
             "expr": "8*10^(-9)",
             "name": "q1",
             "value": "0.000000008"
         },
         {
-            "expr": "-8*10^(-9)",
+            "descr": "charge of sphere 2",
+            "expr": "8*10^(-9)",
             "name": "q2",
-            "value": "-0.000000008"
+            "value": "0.000000008"
         },
         {
+            "descr": "PEC sphere radius",
             "expr": "1",
             "name": "r0",
             "value": "1"
         },
         {
+            "descr": "Point of highest E-field on sphere 1",
             "expr": "(d/2)-r0",
             "name": "p1",
-            "value": "2.5"
+            "value": "2"
         },
         {
+            "descr": "Point of highest E-field on sphere 2",
             "expr": "(-d/2)+r0",
             "name": "p2",
-            "value": "-2.5"
+            "value": "-2"
         },
         {
+            "descr": "Mid-point between spheres",
             "expr": "(p1+p2)/2",
             "name": "p3",
             "value": "0"

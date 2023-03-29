@@ -7,7 +7,7 @@
     <Type>E-Field</Type>
   </Field>
   <Mesh>
-    <BBox>-6.7; 6.7; -3.2; 3.2; -3.2; 3.2</BBox>
+    <BBox>-6.2; 6.2; -3.2; 3.2; -3.2; 3.2</BBox>
     <File>3d_full.slim</File>
     <GeomScale>1</GeomScale>
     <Type>Tet</Type>

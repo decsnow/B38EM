@@ -1,0 +1,31 @@
+
+              Logfile of Field Evaluation
+              ===========================
+
+Calculation window:
+===================
+
+ Coordinate System       : global (xyz)   cartesian
+ Dimension               : 0D
+
+                 low        high    stepsize
+         ----------- ----------- -----------
+       X          -2          -2           1
+       Y           0           0           1
+       Z           0           0           1
+
+Evaluated field, component and result value:
+============================================
+
+ Evaluated field         : E-Field [Es]
+ Field component         : X
+ Complex                 : Real Part
+ Result Value            : Field Value
+
+
+Result Data:
+============
+
+ NData Points = 1
+
+ Field Value  =   6.3087E+01

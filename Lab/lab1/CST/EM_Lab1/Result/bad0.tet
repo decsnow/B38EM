@@ -1,6 +1,6 @@
 Number of suspicious elements
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-4
+12
 
 Element dimension
 ^^^^^^^^^^^^^^^^^
@@ -12,7 +12,15 @@ Quality measure output (0...no, 1...yes)
 
 Element ID, element quality (if used; 0: worst, 1: best)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-1016
-1034
-1043
-1050
+1163
+1173
+1194
+1196
+1206
+1207
+1221
+1224
+1589
+1610
+1637
+1640

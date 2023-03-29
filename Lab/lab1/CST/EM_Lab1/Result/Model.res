@@ -1,5 +1,5 @@
 MWS Result File Version 20150206
-size=i:51
+size=i:55
 
 type=s:HIDDENITEM
 problemclass=s::8:1000
@@ -8,6 +8,22 @@ creation=s:internal
 lifetime=s:rebuild
 result=s:1
 files=s:E-Field (Es)_X_0D.rd0
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+files=s:E-Field (Es)_X_0D_1.rd0
+
+type=s:HIDDENITEM
+problemclass=s::8:1000
+visibility=s:hidden
+creation=s:internal
+lifetime=s:rebuild
+result=s:1
+files=s:E-Field (Es)_X_0D_2.rd0
 
 type=s:HIDDENITEM
 problemclass=s::8:1000
@@ -274,6 +290,28 @@ result=s:1
 treepath=s:Tables\0D Results\E-Field (Es)_X_0D
 files=s:E-Field (Es)_X_0D.rt0
 files=s:E-Field (Es)_X_0D.rd0
+
+type=s:TABLE
+subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:surviveparchange
+result=s:1
+treepath=s:Tables\0D Results\E-Field (Es)_X_0D_2
+files=s:E-Field (Es)_X_0D_2.rt0
+files=s:E-Field (Es)_X_0D_2.rd0
+
+type=s:TABLE
+subtype=s:user
+problemclass=s::8:1000
+visibility=s:visible
+creation=s:internal
+lifetime=s:surviveparchange
+result=s:1
+treepath=s:Tables\0D Results\E-Field (Es)_X_0D_1
+files=s:E-Field (Es)_X_0D_1.rt0
+files=s:E-Field (Es)_X_0D_1.rd0
 
 type=s:RESULT_0D
 problemclass=s::8:1000
