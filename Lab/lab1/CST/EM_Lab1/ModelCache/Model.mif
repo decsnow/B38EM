@@ -4,8 +4,8 @@
 [PCB_IMPORT: False]
 [PCB_IMPORT_NEW: False]
 [DISABLE_FAST_LOAD: False]
-[BBOX:-6.7000000000000002 6.7000000000000002 -3.2000000000000002 3.2000000000000002 -3.2000000000000002 3.2000000000000002]
-[BBOX_STRUCTURE:-4.7000000000000002 4.7000000000000002 -1.2 1.2 -1.2 1.2]
+[BBOX:-6.2000000000000002 6.2000000000000002 -3.2000000000000002 3.2000000000000002 -3.2000000000000002 3.2000000000000002]
+[BBOX_STRUCTURE:-4.2000000000000002 4.2000000000000002 -1.2 1.2 -1.2 1.2]
 [UNITS]
      .Geometry "m" 
      .Frequency "Hz" 
@@ -486,22 +486,22 @@
      .Transparency "0" 
      .Create
 [ENDMATERIAL]
+[FACEBASEDOBJECT: CHARGE|charge2|component1:PEC2]
+With Charge
+     .Reset
+     .Name "$*charge2*$"
+     .Value "8.0000000000000005e-09"
+     .Face "$#component1:PEC2#$", "1"
+     .Type "PEC"
+     .Create
+End With
+[ENDFACEBASEDOBJECT]
 [FACEBASEDOBJECT: CHARGE|charge1|component1:PEC1]
 With Charge
      .Reset
      .Name "$*charge1*$"
      .Value "8.0000000000000005e-09"
      .Face "$#component1:PEC1#$", "1"
-     .Type "PEC"
-     .Create
-End With
-[ENDFACEBASEDOBJECT]
-[FACEBASEDOBJECT: CHARGE|charge2|component1:PEC2]
-With Charge
-     .Reset
-     .Name "$*charge2*$"
-     .Value "-8.0000000000000005e-09"
-     .Face "$#component1:PEC2#$", "1"
      .Type "PEC"
      .Create
 End With

@@ -2,33 +2,33 @@ Electrostatic Solver - Adaptive Computation
 ----------------------------------------------------------------------
 Pass: 1
 ----------------------------------------------------------------------
-      Number of mesh cells:        9496
-      Number of unknowns:          17402
+      Number of mesh cells:        10916
+      Number of unknowns:          20013
       Timing:
                System assembling:   0h :  0m :  1s
                Linear solver:       0h :  0m :  0s
                Error estimation:    0h :  0m :  0s
 
-      Energy:                      4.34485e-07 J
+      Energy:                      4.39448e-07 J
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
 Pass: 2
 ----------------------------------------------------------------------
-      Number of mesh cells:        14922
-      Number of unknowns:          25076
+      Number of mesh cells:        16496
+      Number of unknowns:          27784
       Timing:
-               Mesh adaptation:     0h :  0m :  1s
-               System assembling:   0h :  0m :  3s
+               Mesh adaptation:     0h :  0m :  0s
+               System assembling:   0h :  0m :  1s
                Linear solver:       0h :  0m :  0s
                Error estimation:    0h :  0m :  0s
 
-      Relative estimated error:    0.000406785
-      Energy:                      4.34662e-07 J
+      Relative estimated error:    0.000259286
+      Energy:                      4.39562e-07 J
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
-Total adaptive computation time:  0h :  0m :  8s
+Total adaptive computation time:  0h :  0m :  5s
 
 Desired accuracy limit reached, mesh adaptation stopped.
 ----------------------------------------------------------------------
