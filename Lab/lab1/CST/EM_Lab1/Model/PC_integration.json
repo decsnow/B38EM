@@ -17,7 +17,7 @@
       {
          "name": "q2",
          "type": "string",
-         "value": "8*10^(-9)"
+         "value": "-8*10^(-9)"
       },
       {
          "name": "r0",
@@ -30,19 +30,19 @@
          "len": 1,
          "name": "3D\\E-Field (Es)_X_0D_2",
          "type": "float",
-         "value": -63.33997344970703
+         "value": -78.9881362915039
       },
       {
          "len": 1,
          "name": "3D\\E-Field (Es)_X_0D_1",
          "type": "float",
-         "value": 63.08717346191406
+         "value": -78.59786224365234
       },
       {
          "len": 1,
          "name": "3D\\E-Field (Es)_X_0D",
          "type": "float",
-         "value": 0.008805505931377411
+         "value": -15.704019546508789
       }
    ]
 }

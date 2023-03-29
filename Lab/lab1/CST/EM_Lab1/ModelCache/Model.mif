@@ -490,7 +490,7 @@
 With Charge
      .Reset
      .Name "$*charge2*$"
-     .Value "8.0000000000000005e-09"
+     .Value "-8.0000000000000005e-09"
      .Face "$#component1:PEC2#$", "1"
      .Type "PEC"
      .Create

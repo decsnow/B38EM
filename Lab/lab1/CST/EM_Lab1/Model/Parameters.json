@@ -14,9 +14,9 @@
         },
         {
             "descr": "charge of sphere 2",
-            "expr": "8*10^(-9)",
+            "expr": "-8*10^(-9)",
             "name": "q2",
-            "value": "0.000000008"
+            "value": "-0.000000008"
         },
         {
             "descr": "PEC sphere radius",
