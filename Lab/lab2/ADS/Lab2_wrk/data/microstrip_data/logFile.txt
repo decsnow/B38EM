@@ -1,0 +1,18 @@
+
+hpeesofsim (*) 490.shp Nov 12 2018, MINT version 4
+    (64-bit windows built: Tue Nov 13, 2018 02:20:54 +0000)
+
+
+2 spare nodes and 1 spare devices are removed.
+The details can be found in file 'C:\Users\30674\Desktop\B38EM\Lab\lab2\ADS\Lab2_wrk\data\.\microstrip_data\spare_removal.txt'.
+
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with only one device attached (topology corrected): 1
+
+
+SP SP1[1] <Lab2_lib:microstrip:schematic>   freq=(1 GHz->5 GHz)
+
+
+Resource usage:
+  Total stopwatch time     =     1.58 seconds.
+
