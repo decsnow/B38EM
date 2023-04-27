@@ -3,9 +3,9 @@
 
 Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="Lab2_lib:microstrip:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
 model MSub1 MSUB H=1.56 mm Er=4.8 Mur=1 Cond=1.0E+50 Hu=1e+33 mm T=0.02 mm TanD=0 Rough=0 mm DielectricLossModel=1 FreqForEpsrTanD=1.0 GHz LowFreqForTanD=1.0 kHz HighFreqForTanD=1.0 THz RoughnessModel=2 
-MLIN2:TL1  N__0 N__1 Subst="MSub1" W=1 mm L=515.633858 mil Wall1=2.5e+28 mm Wall2=2.5e+28 mm Mod=1 
-Port:TermG1  N__6 0 Num=1 Z=50 Ohm Noise=yes 
-Port:TermG2  N__3 0 Num=2 Z=50 Ohm Noise=yes 
+MLIN2:TL1  N__0 N__1 Subst="MSub1" W=1 mm L=13.097100 mm Wall1=2.5e+28 mm Wall2=2.5e+28 mm Mod=1 
+Port:TermG1  N__0 0 Num=1 Z=50 Ohm Noise=yes 
+Port:TermG2  N__1 0 Num=2 Z=50 Ohm Noise=yes 
 S_Param:SP1 CalcS=yes CalcY=no CalcZ=no GroupDelayAperture=1e-4 FreqConversion=no FreqConversionPort=1 StatusLevel=2 CalcNoise=no SortNoise=0 BandwidthForNoise=1.0 Hz DevOpPtLevel=0 \
 SweepVar="freq" SweepPlan="SP1_stim" OutputPlan="SP1_Output" 
 
@@ -20,5 +20,3 @@ OutputPlan:SP1_Output \
 
 #load "python","LinearCollapse"
 Component Module="LinearCollapse" Type="ModelExtractor" NetworkRepresentation=2
-aele VSWR1=vswr(S11);
-AntLoad:ANT1  N__6 AntType=0 Length=1000 mm RatioLR=10 
